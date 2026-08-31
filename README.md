@@ -19,8 +19,7 @@ Studying CS and math at uOttawa, coursework spanning linear algebra, calculus, d
 ## Projects
 
 - [propaganda-technique-classifier](https://github.com/imbad321/propaganda-technique-classifier) — multi-label propaganda technique classifier with a bias-check methodology
-- [QuranSearch_Frontend](https://github.com/imbad321/QuranSearch_Frontend) — Quran exploration tool with verse search, chapter navigation, and verse connections
-- [Quran_Api](https://github.com/imbad321/Quran_Api) — Node.js API for Quran translations, explanations, and search
+- [Quran Explorer](https://github.com/imbad321/QuranSearch_Frontend) — verse search, chapter navigation, and verse connections, backed by a [Node.js API](https://github.com/imbad321/Quran_Api) for translations and search
 
 ## GitHub Stats
 
